@@ -2,7 +2,6 @@
   "name": "node-assessment-in-dev",
   "version": "1.0.0",
   "description": "### Setup",
-  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +18,6 @@
   "dependencies": {
     "express": "^4.15.2",
     "body-parser": "^1.17.1"
-  }
+  },
+  "main": "Server/server.js"
 }
